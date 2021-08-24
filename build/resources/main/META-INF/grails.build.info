@@ -1,0 +1,6 @@
+#Mon, 23 Aug 2021 21:03:04 +0530
+
+info.app.version=0.1
+info.app.name=demo-api
+grails.env=development
+info.app.grailsVersion=4.0.11
